@@ -8,6 +8,7 @@ body{
     background-image: url("ludo.jpg");
     background-repeat: no-repeat;
     background-size: 100% 100%;
+    height: 100%;
 }
 img{
     margin: auto 20px;
@@ -33,8 +34,8 @@ div{
     position: absolute;
     top: 0;
     bottom: 0;
-    width: 767.8px;
-    height: 724.8px;
+    width: 50%;
+    height: 50%;
     visibility: hidden;
     padding: 0;
     background-repeat: no-repeat;
