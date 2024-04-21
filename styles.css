@@ -11,6 +11,10 @@ body{
 }
 img{
     margin: auto 20px;
+    transition: transform 10s;
+}
+button:hover{
+    transform: rotate3d(18000deg);
 }
 button{
     margin-top: 40px;
