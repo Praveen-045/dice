@@ -14,7 +14,7 @@ img{
     transition: transform 10s;
 }
 button:hover{
-    transform: rotate3d(18000deg);
+    transform: rotate3d(1,1,1,18000deg);
 }
 button{
     margin-top: 40px;
